@@ -1,7 +1,7 @@
-###Subir la escalera:
+# Subir la escalera:
 Estás subiendo una escalera que tiene n escalones. En cada paso podés elegir subir 1 escalón o subir 2.
 Programar una solución que, dada una escalera de n escalones, encuentre de cuántas formas distintas se puede subir para llegar al final.
-Ejemplo:
+_Ejemplo:
 Para una escalera de 2 escalones, el resultado es 2 porque las posibilidades son:
  Subir 1 escalón + subir 1 escalón
  Subir 2 escalones
