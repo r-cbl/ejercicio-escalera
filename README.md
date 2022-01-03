@@ -1,4 +1,4 @@
-# Subir la escalera:
+# Subir la escalera 🆙:
 Estás subiendo una escalera que tiene n escalones. En cada paso podés elegir subir 1 escalón o subir 2.
 Programar una solución que, dada una escalera de n escalones, encuentre de cuántas formas distintas se puede subir para llegar al final.
 _Ejemplo:_
